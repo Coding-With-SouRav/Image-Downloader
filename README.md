@@ -107,5 +107,3 @@ This Python application provides a GUI-based tool for downloading images from Du
 This application provides a robust solution for batch image downloading with careful attention to usability, performance, and error handling. The dark-themed interface and progress feedback create a pleasant user experience while the technical implementation ensures efficient and reliable operation.
 
 
-<!-- AUTO UPDATE -->
-Last maintenance: 2026-08-07 04:29 UTC
